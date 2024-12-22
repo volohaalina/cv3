@@ -1,5 +1,12 @@
 import React from "react";
 
+import lamoda from '/asserts/lamoda.gif';
+
+import API from '/asserts/API.gif';
+
+import filterList from '/asserts/filterList.gif';
+
+import notion from '/asserts/notion.gif';
 const Projects = () => {
   return (
     <div className="max-w-4xl mx-auto">
