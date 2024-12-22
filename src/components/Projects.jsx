@@ -27,7 +27,7 @@ const Projects = () => {
           </a>
           <div className="flex justify-center mt-4">
             <img
-              src="/asserts/lamoda.png"
+              src={lamoda}
               alt="lamoda project"
               className="shadow-md w-90 h-52"
             />
@@ -49,7 +49,7 @@ const Projects = () => {
           </a>
           <div className="flex justify-center mt-4">
             <img
-              src="/asserts/notion.png"
+              src={notion}
               alt="notion"
               className="shadow-md w-90 h-52"
             />
@@ -70,7 +70,7 @@ const Projects = () => {
           </a>
           <div className="flex justify-center mt-4">
             <img
-              src="/asserts/filterList.png"
+              src={filterList}
               alt="Filterable list"
               className="shadow-md w-90 h-52"
             />
@@ -92,7 +92,7 @@ const Projects = () => {
           </a>
           <div className="flex justify-center mt-4">
             <img
-              src="/asserts/API.png"
+              src={API}
               alt="API/SPA"
               className="shadow-md w-90 h-52"
             />
