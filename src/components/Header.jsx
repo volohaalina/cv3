@@ -13,7 +13,7 @@ const Header = () => {
             About Me
           </a>
           <a href="#contact" className="hover:underline text-gray-700">
-            Contact
+            Contacts
           </a>
         </nav>
       </div>
